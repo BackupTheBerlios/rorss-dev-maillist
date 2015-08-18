@@ -1,0 +1,31 @@
+From sappj at psu.edu  Mon Jan 16 02:31:01 2006
+From: sappj at psu.edu (Joe Sapp)
+Date: Sun, 15 Jan 2006 20:31:01 -0500
+Subject: [rorss-dev] Meeting times (was "Hacking during break")
+In-Reply-To: <20060114193821.17199.qmail@web32215.mail.mud.yahoo.com>
+References: <20060114193821.17199.qmail@web32215.mail.mud.yahoo.com>
+Message-ID: <43CAF755.6070704@psu.edu>
+
+Phil H wrote:
+> When are we first meeting this semester?  This thursday I'm seeing
+> george carlin, so I'm not really available.  Wednesday night is out for
+> me, too.
+
+So is Wednesday bad for everybody the whole semester then?  Thursday is kind of
+a long day for both me and Julian, but it's doable.  Why don't you all let me
+know which evenings (I'm thinking 7-8 or 8-9) are good for you.  I don't mind
+meeting after or during the design meetings on Wednesdays this semester, either.
+
+We're gonna have to kick it up a notch early on since we're very crucial to the
+whole project.  Hope to see you all this week (hopefully tomorrow evening)!
+
+-- 
+Joe Sapp
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: smime.p7s
+Type: application/x-pkcs7-signature
+Size: 3196 bytes
+Desc: S/MIME Cryptographic Signature
+URL: <https://lists.berlios.de/pipermail/rorss-dev/attachments/20060115/6bc56973/attachment.bin>
+

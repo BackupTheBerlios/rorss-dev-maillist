@@ -1,0 +1,22 @@
+From sappj at psu.edu  Mon Nov 21 07:40:38 2005
+From: sappj at psu.edu (Joe Sapp)
+Date: Mon, 21 Nov 2005 01:40:38 -0500
+Subject: [rorss-dev] General meeting
+Message-ID: <43816BE6.2070205@psu.edu>
+
+I hope you all are able to make it - if so, I'll see you there!
+
+-- 
+Joe Sapp
+--
+Money can't buy happiness, but it can make you awfully comfortable while
+you're being miserable.
+		-- C.B. Luce
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: smime.p7s
+Type: application/x-pkcs7-signature
+Size: 3196 bytes
+Desc: S/MIME Cryptographic Signature
+URL: <https://lists.berlios.de/pipermail/rorss-dev/attachments/20051121/40900075/attachment.bin>
+

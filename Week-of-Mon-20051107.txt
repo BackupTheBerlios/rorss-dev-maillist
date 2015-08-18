@@ -1,0 +1,33 @@
+From sappj at psu.edu  Thu Nov 10 04:33:04 2005
+From: sappj at psu.edu (Joe Sapp)
+Date: Wed, 09 Nov 2005 22:33:04 -0500
+Subject: [rorss-dev] Tasks you can do
+Message-ID: <4372BF70.1050906@psu.edu>
+
+Hi guys,
+
+In last week's meeting, it was decided that I should start putting a list of 
+shorter "upper-level" tasks on the berlios site, so you can now find that list 
+at https://developer.berlios.de/bugs/?group_id=2982 .  It's a work in progress; 
+I continue to add things when I can and when I think of them.
+
+If you want to work on one of them, simply log in, click on the task you'd like 
+to do, change the "Assigned" field to your name, and click on "Submit Changes". 
+  Once you've done that and written something up, either check it in or email 
+this list with the code attached or inline.  After that, I'll check it in or 
+reply to the list with my comments - everybody else is encouraged to reply with 
+comments, too.
+
+I know at least one of you has a midterm, but I still hope to see you all at 
+the meeting tomorrow!
+
+-- 
+Joe Sapp
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: smime.p7s
+Type: application/x-pkcs7-signature
+Size: 3196 bytes
+Desc: S/MIME Cryptographic Signature
+URL: <https://lists.berlios.de/pipermail/rorss-dev/attachments/20051109/8d625491/attachment.bin>
+

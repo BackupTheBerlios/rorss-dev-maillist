@@ -1,0 +1,15 @@
+From msf5004 at psu.edu  Fri Nov 18 04:08:11 2005
+From: msf5004 at psu.edu (Michael S. Fenton)
+Date: Thu, 17 Nov 2005 22:08:11 -0500 (EST)
+Subject: [rorss-dev] teh roxxing cod3
+Message-ID: <200511180308.WAA09695@webmail15.cac.psu.edu>
+
+This code redefines what is meant by hack & slash coding.  But it works :)
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: basicmotorcontrol.cpp
+Type: application/octet-stream
+Size: 3689 bytes
+Desc: not available
+URL: <https://lists.berlios.de/pipermail/rorss-dev/attachments/20051117/51ec097a/attachment.obj>
+

@@ -1,0 +1,36 @@
+From sappj at psu.edu  Mon Feb  6 22:55:13 2006
+From: sappj at psu.edu (Joe Sapp)
+Date: Mon, 06 Feb 2006 16:55:13 -0500
+Subject: [rorss-dev] TortoiseSVN Reminder
+Message-ID: <43E7C5C1.9060805@psu.edu>
+
+Hi all,
+
+Here's the info about installing TortoiseSVN and such:
+
+http://lists.berlios.de/pipermail/rorss-dev/Week-of-Mon-20051226/000006.html
+
+I broke it down real simple-like (not to be condescending, Phil...) so 
+you hopefully will have no problems installing it. You can all 
+checkout the sources and edit them on your own computer now.
+
+For those of you that have something to be getting ready for Thursday,
+just make sure you're on your way to getting there. If you could check
+it in to the svn tree, that would be awesome too so we can all see 
+what you've done. We need to have something working by Spring Break. 
+If you don't remember what you should be working on, just shoot me an 
+email and I'll let you know as best I can. For you all to whom I 
+didn't get to talk to much on Thursday, email (or IM) me and I can 
+suggest something you could do for this Thursday.
+
+Also, I'm working on getting a new room for us. Who knows if this will 
+actually pan out, but I'm hoping it will. The Linux lab is too poorly 
+setup for really any project to have a reasonable expectation of using.
+
+Anyways, I'll see you all Thursday!
+
+--
+Joe Sapp
+irc.freenode.net #mars-society
+
+

@@ -1,0 +1,86 @@
+From sappj at psu.edu  Mon Oct 31 03:16:26 2005
+From: sappj at psu.edu (Joe Sapp)
+Date: Sun, 30 Oct 2005 21:16:26 -0500
+Subject: [rorss-dev] Is this thing on?
+Message-ID: <43657E7A.9060501@psu.edu>
+
+Hi all, just trying out the "mailing list" for all us coders.  At the least, it 
+was easier on me than putting all your names in each time I wanted to email 
+everybody.  Mind sending an email back to the list (rorss-dev at lists.berlios.de) 
+to let me know your email forwarding from your_nick at users.berlios.de is 
+working?  (Note: anybody can post to the list, so use whatever you want to post)
+
+Thanks,
+
+-- 
+Joe Sapp
+-------------- next part --------------
+A non-text attachment was scrubbed...
+Name: smime.p7s
+Type: application/x-pkcs7-signature
+Size: 3196 bytes
+Desc: S/MIME Cryptographic Signature
+URL: <https://lists.berlios.de/pipermail/rorss-dev/attachments/20051030/9df9cee3/attachment.bin>
+
+From gothcow at yahoo.com  Mon Oct 31 04:03:17 2005
+From: gothcow at yahoo.com (Phil H)
+Date: Sun, 30 Oct 2005 19:03:17 -0800 (PST)
+Subject: [rorss-dev] Is this thing on?
+In-Reply-To: <43657E7A.9060501@psu.edu>
+Message-ID: <20051031030317.68349.qmail@web32213.mail.mud.yahoo.com>
+
+I gotcha
+
+--- Joe Sapp <sappj at psu.edu> wrote:
+
+> Hi all, just trying out the "mailing list" for all
+> us coders.  At the least, it 
+> was easier on me than putting all your names in each
+> time I wanted to email 
+> everybody.  Mind sending an email back to the list
+> (rorss-dev at lists.berlios.de) 
+> to let me know your email forwarding from
+> your_nick at users.berlios.de is 
+> working?  (Note: anybody can post to the list, so
+> use whatever you want to post)
+> 
+> Thanks,
+> 
+> -- 
+> Joe Sapp
+> 
+
+
+Phil
+
+
+		
+__________________________________ 
+Yahoo! FareChase: Search multiple travel sites in one click.
+http://farechase.yahoo.com
+
+
+From msf5004 at psu.edu  Mon Oct 31 06:57:07 2005
+From: msf5004 at psu.edu (Mike Fenton)
+Date: Mon, 31 Oct 2005 00:57:07 -0500
+Subject: [rorss-dev] Is this thing on?
+In-Reply-To: <43657E7A.9060501@psu.edu>
+References: <43657E7A.9060501@psu.edu>
+Message-ID: <4365B233.6000507@psu.edu>
+
+Works for me.
+
+Joe Sapp wrote:
+
+> Hi all, just trying out the "mailing list" for all us coders.  At the 
+> least, it was easier on me than putting all your names in each time I 
+> wanted to email everybody.  Mind sending an email back to the list 
+> (rorss-dev at lists.berlios.de) to let me know your email forwarding from 
+> your_nick at users.berlios.de is working?  (Note: anybody can post to the 
+> list, so use whatever you want to post)
+>
+> Thanks,
+>
+
+
+

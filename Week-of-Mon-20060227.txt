@@ -1,0 +1,19 @@
+From sappj at psu.edu  Tue Feb 28 22:37:37 2006
+From: sappj at psu.edu (Joe Sapp)
+Date: Tue, 28 Feb 2006 16:37:37 -0500
+Subject: [rorss-dev] Parallel port for lappy
+Message-ID: <4404C2A1.2030602@psu.edu>
+
+Hi guys,
+
+We just bought a Keyspan Mini Port Replicator (which will give Lappy
+the parallel port she desperately needs), so I'll try to get it all
+set up to work on before our meeting Thursday.  Is everybody able to
+make it?  I'm thinking we'll just meet in the Linux lab as usual; I
+can bring Lappy for somebody to work on and maybe Phil can bring his
+laptop too.
+
+-- 
+Joe Sapp
+
+

@@ -1,0 +1,175 @@
+From sappj at psu.edu  Wed Apr 12 19:14:47 2006
+From: sappj at psu.edu (Joe Sapp)
+Date: Wed, 12 Apr 2006 13:14:47 -0400
+Subject: [rorss-dev] Modules and serial lines
+Message-ID: <443D3587.5010000@psu.edu>
+
+Hey all,
+
+I just recently discovered that we have two serial ports,
+which means 2 TX and 2 RX lines.  I thought we only had two
+lines *total*.  Anyways, what do you guys say to having
+modules plug in to two different places instead of tying them
+both to one line?
+
+--
+Joe
+
+
+From msf5004 at psu.edu  Thu Apr 13 03:35:17 2006
+From: msf5004 at psu.edu (Mike Fenton)
+Date: Wed, 12 Apr 2006 21:35:17 -0400
+Subject: [rorss-dev] Modules and serial lines
+In-Reply-To: <443D3587.5010000@psu.edu>
+References: <443D3587.5010000@psu.edu>
+Message-ID: <443DAAD5.80604@psu.edu>
+
+Definitely better to plug into 2 places, rather than have to deal with 
+collisions.
+
+Joe Sapp wrote:
+
+>Hey all,
+>
+>I just recently discovered that we have two serial ports,
+>which means 2 TX and 2 RX lines.  I thought we only had two
+>lines *total*.  Anyways, what do you guys say to having
+>modules plug in to two different places instead of tying them
+>both to one line?
+>
+>--
+>Joe
+>_______________________________________________
+>rorss-dev mailing list
+>rorss-dev at lists.berlios.de
+>http://lists.berlios.de/mailman/listinfo/rorss-dev
+>
+>
+>  
+>
+
+
+
+From gothcow at yahoo.com  Thu Apr 13 04:56:06 2006
+From: gothcow at yahoo.com (Phil H)
+Date: Wed, 12 Apr 2006 19:56:06 -0700 (PDT)
+Subject: [rorss-dev] Modules and serial lines
+In-Reply-To: <443DAAD5.80604@psu.edu>
+Message-ID: <20060413025606.75032.qmail@web32215.mail.mud.yahoo.com>
+
+I second that.  Collisions suck.
+
+Mike Fenton <msf5004 at psu.edu> wrote: Definitely better to plug into 2 places, rather than have to deal with 
+collisions.
+
+Joe Sapp wrote:
+
+>Hey all,
+>
+>I just recently discovered that we have two serial ports,
+>which means 2 TX and 2 RX lines.  I thought we only had two
+>lines *total*.  Anyways, what do you guys say to having
+>modules plug in to two different places instead of tying them
+>both to one line?
+>
+>--
+>Joe
+>_______________________________________________
+>rorss-dev mailing list
+>rorss-dev at lists.berlios.de
+>http://lists.berlios.de/mailman/listinfo/rorss-dev
+>
+>
+>  
+>
+
+_______________________________________________
+rorss-dev mailing list
+rorss-dev at lists.berlios.de
+http://lists.berlios.de/mailman/listinfo/rorss-dev
+
+
+
+Phil
+		
+---------------------------------
+Blab-away for as little as 1?/min. Make  PC-to-Phone Calls using Yahoo! Messenger with Voice.
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/rorss-dev/attachments/20060412/014d8802/attachment.html>
+
+From cjh212 at psu.edu  Thu Apr 13 05:44:48 2006
+From: cjh212 at psu.edu (Christian Haag)
+Date: Wed, 12 Apr 2006 23:44:48 -0400
+Subject: Meeting Reminder and Re: [rorss-dev] Modules and serial lines
+Message-ID: <ac1f17160604122044t6b76643ay3ea8230eb760f65a@mail.gmail.com>
+
+http://php.scripts.psu.edu/cjh212/pages/cowsay.php?cow_text=i+had+a+collision&cow=cower.cow
+
+I third that  (Phil, I know you'll love the link)
+
+ALSO A REMINDER THAT THERE IS A SOFTWARE MEETING TOMORROW  (There ya go Joe,
+no need to send out the reminder)
+
+-Christian
+
+
+
+On 4/12/06, Phil H <gothcow at yahoo.com> wrote:
+>
+> I second that.  Collisions suck.
+>
+>
+> *Mike Fenton <msf5004 at psu.edu>* wrote:
+>
+> Definitely better to plug into 2 places, rather than have to deal with
+> collisions.
+>
+> Joe Sapp wrote:
+>
+> >Hey all,
+> >
+> >I just recently discovered that we have two serial ports,
+> >which means 2 TX and 2 RX lines. I thought we only had two
+> >lines *total*. Anyways, what do you guys say to having
+> >modules plug in to two different places instead of tying them
+> >both to one line?
+> >
+> >--
+> >Joe
+> >_______________________________________________
+> >rorss-dev mailing list
+> >rorss-dev at lists.berlios.de
+> >http://lists.berlios.de/mailman/listinfo/rorss-dev
+> >
+> >
+> >
+> >
+>
+> _______________________________________________
+> rorss-dev mailing list
+> rorss-dev at lists.berlios.de
+> http://lists.berlios.de/mailman/listinfo/rorss-dev
+>
+>
+>
+>
+> Phil
+>
+> ------------------------------
+> Blab-away for as little as 1?/min. Make PC-to-Phone Calls<http://us.rd.yahoo.com/mail_us/taglines/postman2/*http://us.rd.yahoo.com/evt=39663/*http://voice.yahoo.com>using Yahoo! Messenger with Voice.
+>
+>
+
+
+--
+V/R,
+
+CHRISTIAN J. W. HAAG, C/Capt, AFROTC
+Services Flight Commander
+Det 720, Penn State University
+Phone: (814) 862-5600
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/rorss-dev/attachments/20060412/3f84ae90/attachment.html>
+
